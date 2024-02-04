@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Baby Yadav</h1>
-<h3 align="center">A passionate Java FullStack Developer</h3>
+<h3 align="center" style="color:blue;">A passionate Java FullStack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA1ZGJ5YmUyNDlwbjhwYjk5czMwcDdqOHUzem54bTg4OTM3OGp1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" >
 
